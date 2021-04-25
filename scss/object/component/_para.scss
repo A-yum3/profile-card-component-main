@@ -1,0 +1,11 @@
+.c-para {
+  font-family: $font-kumbh;
+  font-weight: 400;
+  text-align: center;
+  color: $dark-gray;
+  font-size: 0.8rem;
+
+  &--age {
+    font-size: 1.2rem;
+  }
+}
